@@ -242,7 +242,7 @@
 			"destination" : "share/ament_index/resource_index/package_run_dependencies",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/my_first_urdf"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/my_first_urdf"
 			],
 			"type" : "file"
 		},
@@ -252,7 +252,7 @@
 			"destination" : "share/ament_index/resource_index/parent_prefix_path",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/my_first_urdf"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/my_first_urdf"
 			],
 			"type" : "file"
 		},
@@ -272,7 +272,7 @@
 			"destination" : "share/my_first_urdf/environment",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/ament_prefix_path.dsv"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/ament_prefix_path.dsv"
 			],
 			"type" : "file"
 		},
@@ -292,7 +292,7 @@
 			"destination" : "share/my_first_urdf/environment",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/path.dsv"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/path.dsv"
 			],
 			"type" : "file"
 		},
@@ -302,7 +302,7 @@
 			"destination" : "share/my_first_urdf",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.bash"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.bash"
 			],
 			"type" : "file"
 		},
@@ -312,7 +312,7 @@
 			"destination" : "share/my_first_urdf",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.sh"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.sh"
 			],
 			"type" : "file"
 		},
@@ -322,7 +322,7 @@
 			"destination" : "share/my_first_urdf",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.zsh"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.zsh"
 			],
 			"type" : "file"
 		},
@@ -332,7 +332,7 @@
 			"destination" : "share/my_first_urdf",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.dsv"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.dsv"
 			],
 			"type" : "file"
 		},
@@ -342,7 +342,7 @@
 			"destination" : "share/my_first_urdf",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/package.dsv"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/package.dsv"
 			],
 			"type" : "file"
 		},
@@ -352,7 +352,7 @@
 			"destination" : "share/ament_index/resource_index/packages",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/packages/my_first_urdf"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/packages/my_first_urdf"
 			],
 			"type" : "file"
 		},
@@ -362,8 +362,8 @@
 			"destination" : "share/my_first_urdf/cmake",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_core/my_first_urdfConfig.cmake",
-				"/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_core/my_first_urdfConfig-version.cmake"
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_core/my_first_urdfConfig.cmake",
+				"/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_core/my_first_urdfConfig-version.cmake"
 			],
 			"type" : "file"
 		},

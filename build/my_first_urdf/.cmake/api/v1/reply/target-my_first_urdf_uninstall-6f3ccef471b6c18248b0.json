@@ -98,13 +98,13 @@
 		{
 			"backtrace" : 9,
 			"isGenerated" : true,
-			"path" : "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/CMakeFiles/my_first_urdf_uninstall",
+			"path" : "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/CMakeFiles/my_first_urdf_uninstall",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/CMakeFiles/my_first_urdf_uninstall.rule",
+			"path" : "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/CMakeFiles/my_first_urdf_uninstall.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

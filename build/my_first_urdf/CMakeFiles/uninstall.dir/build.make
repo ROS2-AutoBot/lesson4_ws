@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf
+CMAKE_SOURCE_DIR = /home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf
+CMAKE_BINARY_DIR = /home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf /home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf /home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf /home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf /home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf /home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf /home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf /home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf /home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/uninstall.dir/depend
 

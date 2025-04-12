@@ -1,8 +1,8 @@
-# Install script for directory: /home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf
+# Install script for directory: /home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/vudinhso/RMIT_Bot/lesson2_ws/install/my_first_urdf")
+  set(CMAKE_INSTALL_PREFIX "/home/vudinhso/RMIT_Bot/lesson3_ws/install/my_first_urdf")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -44,19 +44,19 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE DIRECTORY FILES
-    "/home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf/meshes"
-    "/home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf/urdf"
-    "/home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf/launch"
-    "/home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf/rviz"
+    "/home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf/meshes"
+    "/home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf/urdf"
+    "/home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf/launch"
+    "/home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf/rviz"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/my_first_urdf")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/my_first_urdf")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/my_first_urdf")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/my_first_urdf")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -64,7 +64,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf/environment" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/ament_prefix_path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf/environment" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/ament_prefix_path.dsv")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -72,42 +72,42 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf/environment" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf/environment" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/path.dsv")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.bash")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.bash")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.sh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.sh")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.zsh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.zsh")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/local_setup.dsv")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_environment_hooks/package.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_environment_hooks/package.dsv")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/packages/my_first_urdf")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_index/share/ament_index/resource_index/packages/my_first_urdf")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf/cmake" TYPE FILE FILES
-    "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_core/my_first_urdfConfig.cmake"
-    "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/ament_cmake_core/my_first_urdfConfig-version.cmake"
+    "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_core/my_first_urdfConfig.cmake"
+    "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/ament_cmake_core/my_first_urdfConfig-version.cmake"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson2_ws/src/my_first_urdf/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_first_urdf" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson3_ws/src/my_first_urdf/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -118,5 +118,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/vudinhso/RMIT_Bot/lesson2_ws/build/my_first_urdf/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/vudinhso/RMIT_Bot/lesson3_ws/build/my_first_urdf/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
