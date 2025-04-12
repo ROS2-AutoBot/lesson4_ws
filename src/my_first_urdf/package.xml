@@ -14,8 +14,11 @@
   <exec_depend>joint_state_publisher_gui</exec_depend>
   <exec_depend>rviz2</exec_depend>
   <exec_depend>ros2launch</exec_depend>
+  <exec_depend>xacro</exec_depend>
   <!-- Dependencies to be added for gazebo launch file-->
   <exec_depend>ros_gz_sim</exec_depend>
+  <!-- Dependencies to be added for ros2_control launch file-->
+  <exec_depend>gz_ros2_control</exec_depend>
 
 
   <test_depend>ament_lint_auto</test_depend>

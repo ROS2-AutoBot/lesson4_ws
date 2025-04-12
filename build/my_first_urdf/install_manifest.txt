@@ -6,6 +6,7 @@
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_first_urdf/share/my_first_urdf/meshes/wheel_right_link.STL
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_first_urdf/share/my_first_urdf/urdf/my_robot.urdf.xacro
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_first_urdf/share/my_first_urdf/urdf/my_robot_gazebo.xacro
+/home/vudinhso/RMIT_Bot/lesson3_ws/install/my_first_urdf/share/my_first_urdf/urdf/my_robot_ros2_control.xacro
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_first_urdf/share/my_first_urdf/launch/gazebo.launch.py
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_first_urdf/share/my_first_urdf/launch/display.launch.py
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_first_urdf/share/my_first_urdf/rviz/display.rviz
