@@ -1,4 +1,5 @@
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_robot_controller/share/my_robot_controller/launch/controller.launch.py
+/home/vudinhso/RMIT_Bot/lesson3_ws/install/my_robot_controller/share/my_robot_controller/launch/teleopkeyboard.launch.py
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_robot_controller/share/my_robot_controller/config/my_robot_controllers.yaml
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_robot_controller/share/ament_index/resource_index/package_run_dependencies/my_robot_controller
 /home/vudinhso/RMIT_Bot/lesson3_ws/install/my_robot_controller/share/ament_index/resource_index/parent_prefix_path/my_robot_controller
