@@ -1,0 +1,42 @@
+[0.035s] Invoking command in '/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/vudinhso/RMIT_Bot/lesson4_ws/src/rmitbot_localization -DCMAKE_INSTALL_PREFIX=/home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization
+[0.212s] -- The C compiler identification is GNU 13.3.0
+[0.329s] -- The CXX compiler identification is GNU 13.3.0
+[0.366s] -- Detecting C compiler ABI info
+[0.541s] -- Detecting C compiler ABI info - done
+[0.553s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.554s] -- Detecting C compile features
+[0.556s] -- Detecting C compile features - done
+[0.579s] -- Detecting CXX compiler ABI info
+[0.711s] -- Detecting CXX compiler ABI info - done
+[0.731s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.731s] -- Detecting CXX compile features
+[0.734s] -- Detecting CXX compile features - done
+[0.764s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.963s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.176s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.340s] -- Added test 'lint_cmake' to check CMake code style
+[1.344s] -- Added test 'xmllint' to check XML markup files
+[1.347s] -- Configuring done (1.3s)
+[1.351s] -- Generating done (0.0s)
+[1.353s] -- Build files have been written to: /home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization
+[1.359s] Invoked command in '/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/vudinhso/RMIT_Bot/lesson4_ws/src/rmitbot_localization -DCMAKE_INSTALL_PREFIX=/home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization
+[1.359s] Invoking command in '/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization -- -j4 -l4
+[1.413s] Invoked command in '/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization -- -j4 -l4
+[1.415s] Invoking command in '/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization
+[1.424s] -- Install configuration: ""
+[1.425s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/ament_index/resource_index/package_run_dependencies/rmitbot_localization
+[1.425s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/ament_index/resource_index/parent_prefix_path/rmitbot_localization
+[1.425s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/environment/ament_prefix_path.sh
+[1.425s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/environment/ament_prefix_path.dsv
+[1.425s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/environment/path.sh
+[1.425s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/environment/path.dsv
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/local_setup.bash
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/local_setup.sh
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/local_setup.zsh
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/local_setup.dsv
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/package.dsv
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/ament_index/resource_index/packages/rmitbot_localization
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/cmake/rmitbot_localizationConfig.cmake
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/cmake/rmitbot_localizationConfig-version.cmake
+[1.426s] -- Installing: /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/package.xml
+[1.428s] Invoked command in '/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization
