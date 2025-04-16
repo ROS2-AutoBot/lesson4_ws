@@ -3,24 +3,14 @@ controller_manager:
     update_rate: 100 # Hz
     use_sim_time: true
 
-    # Load the joint state broadcaster - motor encoder values
-    joint_state_broadcaster:
-      type: joint_state_broadcaster/JointStateBroadcaster
-
-    # Load the joint trajectory controller - simple and diy
-    simple_velocity_controller:
-      type: velocity_controllers/JointGroupVelocityController
-
     # Load the joint trajectory controller - from the library ros2_controllers
     rmitbot_controller:
       type: diff_drive_controller/DiffDriveController
 
-simple_velocity_controller:
-  ros__parameters:
-    joints:
-      - wheel_left_joint
-      - wheel_right_joint
-    
+    # Load the joint state broadcaster - motor encoder values
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
 rmitbot_controller:
   ros__parameters:
     type        : diff_drive_controller/DiffDriveController
@@ -29,6 +19,7 @@ rmitbot_controller:
     right_wheel_names : ['wheel_right_joint']
 
     publish_rate: 50.0               # default: 50
+    # Odometry noise in pose and twist
     pose_covariance_diagonal : [0.001, 0.001, 1.0e-3, 1.0e-3, 1.0e-3, 0.01]
     twist_covariance_diagonal: [0.001, 0.001, 1.0e-3, 1.0e-3, 1.0e-3, 0.01]
 

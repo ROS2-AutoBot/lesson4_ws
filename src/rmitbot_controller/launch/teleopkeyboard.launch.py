@@ -26,11 +26,7 @@ def generate_launch_description():
         parameters=[
             {"use_sim_time": LaunchConfiguration("use_sim_time")},
             {'stamped': True},
-        ], 
-        # parameters=[os.path.join(get_package_share_directory("my_robot_controller"), "config", "joy_teleop.yaml"),
-        #         {"use_sim_time": LaunchConfiguration("use_sim_time")}],
-        
-        
+        ],         
         remappings=[
             ('cmd_vel', '/rmitbot_controller/cmd_vel')
         ]
