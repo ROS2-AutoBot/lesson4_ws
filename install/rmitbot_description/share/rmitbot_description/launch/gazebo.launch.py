@@ -45,6 +45,7 @@ def generate_launch_description():
         parameters=[{"robot_description": robot_description,
                      "use_sim_time": True}]
     )
+        
     render_engine_arg = DeclareLaunchArgument(
         'render_engine',
         default_value='ogre',

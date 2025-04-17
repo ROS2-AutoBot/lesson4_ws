@@ -1,3 +1,5 @@
+/home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/launch/local_localization.launch.py
+/home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/config/ekf.yaml
 /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/ament_index/resource_index/package_run_dependencies/rmitbot_localization
 /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/ament_index/resource_index/parent_prefix_path/rmitbot_localization
 /home/vudinhso/RMIT_Bot/lesson4_ws/install/rmitbot_localization/share/rmitbot_localization/environment/ament_prefix_path.sh

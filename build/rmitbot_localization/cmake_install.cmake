@@ -43,6 +43,13 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rmitbot_localization" TYPE DIRECTORY FILES
+    "/home/vudinhso/RMIT_Bot/lesson4_ws/src/rmitbot_localization/launch"
+    "/home/vudinhso/RMIT_Bot/lesson4_ws/src/rmitbot_localization/config"
+    )
+endif()
+
+if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/rmitbot_localization")
 endif()
 
