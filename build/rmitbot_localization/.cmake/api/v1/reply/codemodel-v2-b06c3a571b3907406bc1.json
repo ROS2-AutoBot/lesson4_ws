@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-61f2048456601873bcaf.json",
+					"jsonFile" : "directory-.-b862610afdef3f554228.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.20"
@@ -42,14 +42,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "rmitbot_localization_uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-rmitbot_localization_uninstall-cbd76c5169fdae199de6.json",
+					"jsonFile" : "target-rmitbot_localization_uninstall-6952df350fef6b178330.json",
 					"name" : "rmitbot_localization_uninstall",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-uninstall-4cd9c865a84bb05ede3f.json",
+					"jsonFile" : "target-uninstall-88f08a778fbf183b2e6e.json",
 					"name" : "uninstall",
 					"projectIndex" : 0
 				}

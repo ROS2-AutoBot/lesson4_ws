@@ -36,13 +36,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 9,
+				"line" : 8,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 0,
-				"line" : 14,
+				"line" : 15,
 				"parent" : 0
 			},
 			{
@@ -226,13 +226,11 @@
 		{
 			"backtrace" : 1,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description",
+			"destination" : "share/rmitbot_localization",
 			"paths" : 
 			[
-				"meshes",
-				"urdf",
 				"launch",
-				"rviz"
+				"config"
 			],
 			"type" : "directory"
 		},
@@ -242,7 +240,7 @@
 			"destination" : "share/ament_index/resource_index/package_run_dependencies",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/rmitbot_description"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/rmitbot_localization"
 			],
 			"type" : "file"
 		},
@@ -252,14 +250,14 @@
 			"destination" : "share/ament_index/resource_index/parent_prefix_path",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/rmitbot_description"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/rmitbot_localization"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 15,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description/environment",
+			"destination" : "share/rmitbot_localization/environment",
 			"paths" : 
 			[
 				"/opt/ros/jazzy/share/ament_cmake_core/cmake/environment_hooks/environment/ament_prefix_path.sh"
@@ -269,17 +267,17 @@
 		{
 			"backtrace" : 16,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description/environment",
+			"destination" : "share/rmitbot_localization/environment",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_environment_hooks/ament_prefix_path.dsv"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_environment_hooks/ament_prefix_path.dsv"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 17,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description/environment",
+			"destination" : "share/rmitbot_localization/environment",
 			"paths" : 
 			[
 				"/opt/ros/jazzy/share/ament_cmake_core/cmake/environment_hooks/environment/path.sh"
@@ -289,60 +287,60 @@
 		{
 			"backtrace" : 18,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description/environment",
+			"destination" : "share/rmitbot_localization/environment",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_environment_hooks/path.dsv"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_environment_hooks/path.dsv"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 20,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description",
+			"destination" : "share/rmitbot_localization",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_environment_hooks/local_setup.bash"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_environment_hooks/local_setup.bash"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 21,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description",
+			"destination" : "share/rmitbot_localization",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_environment_hooks/local_setup.sh"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_environment_hooks/local_setup.sh"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 22,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description",
+			"destination" : "share/rmitbot_localization",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_environment_hooks/local_setup.zsh"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_environment_hooks/local_setup.zsh"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 23,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description",
+			"destination" : "share/rmitbot_localization",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_environment_hooks/local_setup.dsv"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_environment_hooks/local_setup.dsv"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 24,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description",
+			"destination" : "share/rmitbot_localization",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_environment_hooks/package.dsv"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_environment_hooks/package.dsv"
 			],
 			"type" : "file"
 		},
@@ -352,25 +350,25 @@
 			"destination" : "share/ament_index/resource_index/packages",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_index/share/ament_index/resource_index/packages/rmitbot_description"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_index/share/ament_index/resource_index/packages/rmitbot_localization"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 31,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description/cmake",
+			"destination" : "share/rmitbot_localization/cmake",
 			"paths" : 
 			[
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_core/rmitbot_descriptionConfig.cmake",
-				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_description/ament_cmake_core/rmitbot_descriptionConfig-version.cmake"
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_core/rmitbot_localizationConfig.cmake",
+				"/home/vudinhso/RMIT_Bot/lesson4_ws/build/rmitbot_localization/ament_cmake_core/rmitbot_localizationConfig-version.cmake"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 32,
 			"component" : "Unspecified",
-			"destination" : "share/rmitbot_description",
+			"destination" : "share/rmitbot_localization",
 			"paths" : 
 			[
 				"package.xml"
